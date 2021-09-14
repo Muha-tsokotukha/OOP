@@ -1,0 +1,7 @@
+    // TASK-1: Add at least one more instance data field;
+
+    // TASK-2: Add at least one more instance method;   
+
+    // TASK-3: Create a method showTotalNumberOfStudents();
+
+    // TASK-4: Generate IDs automatically.
